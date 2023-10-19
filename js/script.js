@@ -20,7 +20,7 @@ networkWriteUp.style.display = "block";
 networkLogo.style.display = "none";
 
 const networkLogoLinks = {
-  mtn: "/assets/images/mtn.png+MTN+#ffda29",
+  mtn: "/assets/images/mtn.png+MTN+#FFFF00",
   glo: "/assets/images/glo.png+Glo+#72AE49",
   nineMobile: "/assets/images/9mobile.jpeg+9Mobile+#006400",
   airtel: "/assets/images/airtel.jpg+Airtel+#FF0000",
